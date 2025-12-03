@@ -22,3 +22,9 @@ A custom Minecraft launcher for Android devices.
 ---
 
 *This project is in early development. Contributions and feedback are welcome!*
+## APK Download & Installation
+
+- **Download APK:** The launcher enables you to download mod APKs from legitimate sources. Paste the download URL into the launcher and save the file to your device.
+- **Install APK:** Select any APK file from your device (must be a legal/compatible file) and install it through the launcher’s built-in installer.
+
+*Please do not use this launcher to download/distribute copyrighted APKs (e.g., official Minecraft APKs), which is illegal and not supported.*
