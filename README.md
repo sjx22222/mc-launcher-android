@@ -1,30 +1,35 @@
-# MC Launcher Android
+## 🚀 Mobile Installation Guide (No Android Studio Needed)
 
-A custom Minecraft launcher for Android devices.
+You can install the MC Launcher Android app directly on your Android phone without using a computer or Android Studio!
 
-## Features
+### 1. Download the APK
 
-- Download and manage different Minecraft versions
-- Custom skins and mod support (planned)
-- Intuitive user interface optimized for mobile
+- Visit the [Releases](https://github.com/sjx22222/mc-launcher-android/releases) page of this repository on your phone’s browser.
+- Tap the latest `.apk` file to download it.
 
-## Getting Started
+### 2. Allow Installation from Unknown Sources
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sjx22222/mc-launcher-android.git
-   ```
-2. Open in Android Studio and build the project.
+- When you try to open the APK, your phone may show a warning.
+- Tap **Settings** or **Allow from this source** (from the prompt). Enable permission to install unknown apps for your browser or file manager.
 
-## License
-[MIT](LICENSE) (change if you plan to use another license)
+### 3. Install the App
+
+- Find the APK file in your **Downloads** folder (or tap the download notification).
+- Tap the APK file, then tap **Install**.
+- Wait for the installation to finish.
+
+### 4. Open and Use
+
+- Once installed, tap **Open** or find "MC Launcher Android" in your app drawer.
+- Grant any permissions requested.
 
 ---
 
-*This project is in early development. Contributions and feedback are welcome!*
-## APK Download & Installation
+**Troubleshooting:**
+- If you can't see the APK, use a File Manager app and look in the "Downloads" folder.
+- If permission is denied, revisit the popup instructions to "Allow from this source" and try again.
+- Only install APKs from sources you trust.
 
-- **Download APK:** The launcher enables you to download mod APKs from legitimate sources. Paste the download URL into the launcher and save the file to your device.
-- **Install APK:** Select any APK file from your device (must be a legal/compatible file) and install it through the launcher’s built-in installer.
+---
 
-*Please do not use this launcher to download/distribute copyrighted APKs (e.g., official Minecraft APKs), which is illegal and not supported.*
+*No computer required! Enjoy your Minecraft launcher on Android!*
